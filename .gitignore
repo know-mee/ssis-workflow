@@ -1,0 +1,11 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+bin/
+obj/
+
+# SSIS
+*.dtproj.user
+*.ispac
+*.dtsx.bak

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="StagingDB"
+  DTS:DTSID="{34861363-3212-4203-9108-07BB7FB83915}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=192.168.1.5;User ID=sa;Initial Catalog=demo;Persist Security Info=True;Encrypt=False;Application Name=SSIS-ssis_metadata_driven_file_ingestion-{34861363-3212-4203-9108-07BB7FB83915}192.168.1.5.demo.sa1;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAv5E0uhhpsUW9i0eEgmOelAAAAAACAAAAAAAQZgAAAAEAACAAAACRRNEq4AFX2q7BVBfNeSzzMrMMQZYrogK1A72ybip9zgAAAAAOgAAAAAIAACAAAABCMK1Ez+4FH74W3fJSHB0zo3rvCYW/nRF5vnbYUTpomnAAAABfnRXbSocyiUNnoB5N4WvqFPYIXEnu6J41naZJZI26mhTDCcYF0Ocrsl40ogvGxuNfJLtHqPKaavpNJ4rxBgkAOGb5jhiFZdfvHxYm0PExRRB9y999cMOo2XqI3SF1x7bas6a2lnH48Tki5w7z6VIeQAAAADUfEeQYio9BFiybTD14DlcQ3tzVAUnEw4ELR19X5PNqI0Bq4IRib0ZGTZTBJdVgKNSsO15JTBjM43A4RxfYSds=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
